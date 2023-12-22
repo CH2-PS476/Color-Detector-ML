@@ -1,4 +1,4 @@
-# Object Detection Training Notebook
+# Color Detector Training Notebook
 
 ## Overview
 
